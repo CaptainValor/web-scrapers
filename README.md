@@ -8,7 +8,7 @@ This repository contains a series of web scrapers / wrappers that use Nokogiri t
 
 ## Dependencies
 
-* Ruby 2.0.0 or higher
+* Ruby 2.0.0 or greater
 * [nokogiri (gem)](http://nokogiri.org/)
 
 ## Technical Notes
